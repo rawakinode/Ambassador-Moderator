@@ -4,3 +4,6 @@ This is a portfolio about my experience as a Regional Moderator and Community Am
 
 ## Swisstronik
 
+Swisstronik is a layer 1 solution built on the Cosmos SDK framework. It aims to combine the benefits of the Ethereum Virtual Machine (EVM) with the underlying infrastructure provided by the Cosmos SDK. This integration allows Swisstronik to offer Ethereum compatibility while providing additional features such as private EVM execution using Intel SGX.
+
+My experience here is being a Moderator for Indonesia and as an Ambassador starting from Season 2 to the last Season, Season 6. This is a screenshot of proof of my profile and role on Discord.
